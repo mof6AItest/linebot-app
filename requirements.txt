@@ -1,0 +1,4 @@
+streamlit
+line-bot-sdk
+anthropic
+python-dotenv
